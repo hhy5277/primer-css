@@ -1,8 +1,11 @@
-.DS_Store
-.sass-cache
-node_modules
 *.log
-build
+*.tgz
+.DS_Store
+.changelog
+.next/
+.sass-cache
+.storybuild/
 _site
-docs
-*.lerna_backup
+dist/
+node_modules/
+searchIndex.js
